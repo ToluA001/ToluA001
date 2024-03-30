@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToluA001
 - 👀 I’m interested in machine learning, Ai, software engineering.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning JS, HTML, and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me toluwanimi611@gmail.com
 
