@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToluA001
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning the .NET Framework.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me toluwanimi611@gmail.com
 
