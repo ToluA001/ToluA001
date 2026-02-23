@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me toluwanimi611@gmail.com
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToluA001&show_icons=true&theme=radical)
 
 <!---
 ToluA001/ToluA001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
