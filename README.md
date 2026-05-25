@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ToluA001
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me toluwanimi611@gmail.com
+# Howdy! I'm Tolu, and I'm a computer science student at Texas A&M University
 
 [![My Website](https://img.shields.io/website?url=https%3A%2F%2Fjurassic001-portfolio.vercel.app&up_message=Online&up_color=%23023020&down_message=Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://tolua001.github.io/myWebsite/)
 
