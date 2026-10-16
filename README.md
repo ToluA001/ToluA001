@@ -1,6 +1,6 @@
 # Howdy! I'm Tolu
 
-[![My Website](https://img.shields.io/website?url=https%3A%2F%2Fjurassic001-portfolio.vercel.app&up_message=Online&up_color=%23023020&down_message=Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://tolua001.github.io/myWebsite/)
+[![My Website](https://img.shields.io/website?url=https%3A%2F%2Fjurassic001-portfolio.vercel.app&up_message=Online&up_color=%23023020&down_message=Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)]([https://tolua001.github.io/myWebsite](https://tolua001.github.io/myWebsite/)/)
 ![A&M Class of '29](https://img.shields.io/badge/Texas%20A%26M-500000?style=for-the-badge&logoColor=ffffff&logoSize=auto&label=Class%20of%20'29&labelColor=353537)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
