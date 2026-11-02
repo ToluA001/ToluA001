@@ -17,5 +17,9 @@
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ToluA001&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=ToluA001&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
+
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ## Contact
 toluwanimi611@gmail.com
