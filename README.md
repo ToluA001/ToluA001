@@ -9,4 +9,9 @@
 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=rust,cpp,cs,py,java,linux,git,github,vscode&theme=dark" alt="Tech stack" /> </p>
 📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=tolua001&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&include_all_commits=true&count_private=true&custom_title=Tolu's%20GitHub%20Stats" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolua001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" /> </div> <br /> <div align="center"> <!-- Paste your existing fish GIF <img> tag here, e.g.: <img src="YOUR_FISH_GIF_URL" width="120" alt="swimming fish" /> --> </div>
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ToluA001&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=ToluA001&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
+
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
